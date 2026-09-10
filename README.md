@@ -56,7 +56,7 @@ Main dependencies are the following:
 
 **Warning**: 
 * Preinstalled conda library `setuptools` must be set to version ≤ 8 before other library installations
-* `kaleido` has to be installed in version 0.2.1, that is the last "stand alone" version before deoendency from Google Chrome libraries
+* `kaleido` has to be installed in version 0.2.1, that is the last "stand alone" version before dependency from Google Chrome libraries
 
 Datailed information are available in `requirements.yaml` file.
 
